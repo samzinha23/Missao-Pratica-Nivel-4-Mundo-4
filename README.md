@@ -18,9 +18,9 @@ Integrante: Samantha Karina Barbosa Torres.
 
 Repositório: 
 
-Objetivos da prática
+<h1>Objetivos da prática</h1>
 
-    Demonstrar habilidade na criação e gerenciamento de recursos na Nuvem Azure,
+   Demonstrar habilidade na criação e gerenciamento de recursos na Nuvem Azure,
     adquirindo conhecimento sobre a estrutura básica da plataforma Azure
     Utilizar efetivamente o portal Azure para criar e configurar uma Máquina Virtual
     (VM), demonstrando compreensão dos recursos e suas funções.
